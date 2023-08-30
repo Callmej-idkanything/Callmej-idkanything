@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Callmej-idkanything
+- 👀 I’m interested in learning how to program
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on anything I can do
+--->
